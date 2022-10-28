@@ -8,7 +8,7 @@
 
 You can add and search for your books
 
-#### Note : you need to create your local database (check database.py)
+#### Note : you need to create your local database (check database.py) (json file has been added, books.json)
 
 ![image](https://user-images.githubusercontent.com/47816410/198575672-86095916-ac68-4363-adec-241b8c45f026.png)
 ![image](https://user-images.githubusercontent.com/47816410/198575710-426ecc25-00bd-4eef-89c3-64fefa3e7721.png)
